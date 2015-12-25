@@ -28,6 +28,10 @@
 				<categoryname>ltb.general</categoryname>
 				<optiontype>text</optiontype>
 			</option>
+			<option name="ltb_thread">
+				<categoryname>ltb.general</categoryname>
+				<optiontype>text</optiontype>
+			</option>
 			<option name="ltb_description">
 				<categoryname>ltb.general</categoryname>
 				<optiontype>textareaI18n</optiontype>
@@ -52,6 +56,10 @@
 			</option>
 			<option name="ltb_price">
 				<categoryname>ltb.other</categoryname>
+				<optiontype>text</optiontype>
+			</option>
+			<option name="ltb_thread">
+				<categoryname>ltb.general</categoryname>
 				<optiontype>text</optiontype>
 			</option>
 			<option name="ltb_description">
