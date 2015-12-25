@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/option.xsd">
+	<import>
+		<categories>
+			<category name="ltb"></category>
+			<category name="ltb.general">
+				<parent>ltb</parent>
+			</category>
+			<category name="ltb.other">
+				<parent>ltb</parent>
+			</category>
+		</categories>
+		
+		<options>
+			<option name="ltb_preview">
+				<categoryname>ltb.general</categoryname>
+				<optiontype>text</optiontype>
+			</option>
+			<option name="ltb_title">
+				<categoryname>ltb.general</categoryname>
+				<optiontype>text</optiontype>
+			</option>
+			<option name="ltb_pubdate">
+				<categoryname>ltb.general</categoryname>
+				<optiontype>text</optiontype>
+			</option>
+			<option name="ltb_price">
+				<categoryname>ltb.general</categoryname>
+				<optiontype>text</optiontype>
+			</option>
+			<option name="ltb_description">
+				<categoryname>ltb.general</categoryname>
+				<optiontype>textareaI18n</optiontype>
+				<supporti18n>1</supporti18n>
+			</option>
+			<option name="ltb_story">
+				<categoryname>ltb.general</categoryname>
+				<optiontype>textareaI18n</optiontype>
+				<supporti18n>1</supporti18n>
+			</option>
+			<option name="ltb_preview">
+				<categoryname>ltb.other</categoryname>
+				<optiontype>text</optiontype>
+			</option>
+			<option name="ltb_title">
+				<categoryname>ltb.other</categoryname>
+				<optiontype>text</optiontype>
+			</option>
+			<option name="ltb_pubdate">
+				<categoryname>ltb.other</categoryname>
+				<optiontype>text</optiontype>
+			</option>
+			<option name="ltb_price">
+				<categoryname>ltb.other</categoryname>
+				<optiontype>text</optiontype>
+			</option>
+			<option name="ltb_description">
+				<categoryname>ltb.other</categoryname>
+				<optiontype>textareaI18n</optiontype>
+				<supporti18n>1</supporti18n>
+			</option>
+			<option name="ltb_story">
+				<categoryname>ltb.other</categoryname>
+				<optiontype>textareaI18n</optiontype>
+				<supporti18n>1</supporti18n>
+			</option>
+		</options>
+	</import>
+</data>
