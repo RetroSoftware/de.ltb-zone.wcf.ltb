@@ -59,7 +59,7 @@
 				<optiontype>text</optiontype>
 			</option>
 			<option name="ltb_thread">
-				<categoryname>ltb.general</categoryname>
+				<categoryname>ltb.other</categoryname>
 				<optiontype>text</optiontype>
 			</option>
 			<option name="ltb_description">
