@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/object-type.xsd">
+	<import>
+		<type>
+			<name>de.ltb-zone.wcf.ltb.LTBPage</name>
+			<definitionname>com.woltlab.wcf.page</definitionname>
+			<classname><![CDATA[wcf\page\LTBPage]]></classname>
+			<categoryname>com.woltlab.wcf.other</categoryname>
+		</type>
+		<type>
+			<name>de.ltb-zone.wcf.ltb.OtherLTBPage</name>
+			<definitionname>com.woltlab.wcf.page</definitionname>
+			<classname><![CDATA[wcf\page\OtherLTBPage]]></classname>
+			<categoryname>com.woltlab.wcf.other</categoryname>
+		</type>
+	</import>
+</data>
