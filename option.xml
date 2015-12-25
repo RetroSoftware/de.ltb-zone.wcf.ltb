@@ -42,32 +42,32 @@
 				<optiontype>textareaI18n</optiontype>
 				<supporti18n>1</supporti18n>
 			</option>
-			<option name="ltb_preview">
+			<option name="ltb_other_preview">
 				<categoryname>ltb.other</categoryname>
 				<optiontype>text</optiontype>
 			</option>
-			<option name="ltb_title">
+			<option name="ltb_other_title">
 				<categoryname>ltb.other</categoryname>
 				<optiontype>text</optiontype>
 			</option>
-			<option name="ltb_pubdate">
+			<option name="ltb_other_pubdate">
 				<categoryname>ltb.other</categoryname>
 				<optiontype>text</optiontype>
 			</option>
-			<option name="ltb_price">
+			<option name="ltb_other_price">
 				<categoryname>ltb.other</categoryname>
 				<optiontype>text</optiontype>
 			</option>
-			<option name="ltb_thread">
+			<option name="ltb_other_thread">
 				<categoryname>ltb.other</categoryname>
 				<optiontype>text</optiontype>
 			</option>
-			<option name="ltb_description">
+			<option name="ltb_other_description">
 				<categoryname>ltb.other</categoryname>
 				<optiontype>textareaI18n</optiontype>
 				<supporti18n>1</supporti18n>
 			</option>
-			<option name="ltb_story">
+			<option name="ltb_other_story">
 				<categoryname>ltb.other</categoryname>
 				<optiontype>textareaI18n</optiontype>
 				<supporti18n>1</supporti18n>
