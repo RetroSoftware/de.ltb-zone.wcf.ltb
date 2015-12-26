@@ -37,5 +37,11 @@
 	<category name="wcf.ltb">
 		<item name="wcf.ltb.button"><![CDATA[Aktuelles LTB]]></item>
 		<item name="wcf.ltb.button.other"><![CDATA[Aktuelle LTB-Nebenreihe]]></item>
+		<item name="wcf.ltb.title"><![CDATA[Aktuelles LTB]]></item>
+		<item name="wcf.ltb.title.other"><![CDATA[LTB-Nebenreihe]]></item>
+		<item name="wcf.ltb.info"><![CDATA[Informationen]]></item>
+		<item name="wcf.ltb.pubdate"><![CDATA[Veröffentlichung]]></item>
+		<item name="wcf.ltb.price"><![CDATA[Preis]]></item>
+		<item name="wcf.ltb.content"><![CDATA[Inhaltsverzeichnis]]></item>
 	</category>
 </language>
