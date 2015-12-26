@@ -11,7 +11,9 @@ use wcf\system\WCF;
  */
 class LTBDashboardBox extends AbstractSidebarDashboardBox {
 	/**
-	 * @see	\wcf\system\dashboard\box\AbstractContentDashboardBox::$templateName
+	 * @see	\wcf\system\dashboard\box\AbstractContentDashboardBox::render()
 	 */
-	public $templateName = 'dashboardBoxLTB';
+	protected function render() {
+		return WCF::getTPL()->fetch('dashboardBoxLTB');
+	}
 }
