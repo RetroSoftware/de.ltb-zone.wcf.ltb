@@ -1,3 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/language.xsd" languagecode="de">
+	<category name="wcf.acp.option">
+		<item name="wcf.acp.option.category.ltb"><![CDATA[LTB-Anzeige]]></item>
+		<item name="wcf.acp.option.category.ltb.general"><![CDATA[Reguläres LTB]]></item>
+		<item name="wcf.acp.option.ltb_preview"><![CDATA[Cover]]></item>
+		<item name="wcf.acp.option.ltb_preview.description"><![CDATA[Geben Sie hier den Namen der Bilddatei an (ltb100.png).]]></item>
+		<item name="wcf.acp.option.ltb_title"><![CDATA[Titel]]></item>
+		<item name="wcf.acp.option.ltb_title.description"><![CDATA[Geben Sie hier den Titel an (LTB 100: Ein Fest für Donald).]]></item>
+		<item name="wcf.acp.option.ltb_pubdate"><![CDATA[Veröffentlichung]]></item>
+		<item name="wcf.acp.option.ltb_pubdate.description"><![CDATA[Geben Sie hier das Datum der Veröffentlichung an.]]></item>
+		<item name="wcf.acp.option.ltb_price"><![CDATA[Preis]]></item>
+		<item name="wcf.acp.option.ltb_price.description"><![CDATA[Geben Sie hier den aktuellen Preis an.]]></item>
+		<item name="wcf.acp.option.ltb_thread"><![CDATA[Thread-ID]]></item>
+		<item name="wcf.acp.option.ltb_thread.description"><![CDATA[Der Thread muss vorher angelegt werden. Geben Sie hier anschließend die Thread-ID an.]]></item>
+		<item name="wcf.acp.option.ltb_description"><![CDATA[Vorwort]]></item>
+		<item name="wcf.acp.option.ltb_story"><![CDATA[Inhaltsverzeichnis]]></item>
+		<item name="wcf.acp.option.category.ltb.other"><![CDATA[LTB-Nebenreihen]]></item>
+		<item name="wcf.acp.option.ltb_other_preview"><![CDATA[Cover]]></item>
+		<item name="wcf.acp.option.ltb_other_preview.description"><![CDATA[Geben Sie hier den Namen der Bilddatei an (ltb100.png).]]></item>
+		<item name="wcf.acp.option.ltb_other_title"><![CDATA[Titel]]></item>
+		<item name="wcf.acp.option.ltb_other_title.description"><![CDATA[Geben Sie hier den Titel an (LTB 100: Ein Fest für Donald).]]></item>
+		<item name="wcf.acp.option.ltb_other_pubdate"><![CDATA[Veröffentlichung]]></item>
+		<item name="wcf.acp.option.ltb_other_pubdate.description"><![CDATA[Geben Sie hier das Datum der Veröffentlichung an.]]></item>
+		<item name="wcf.acp.option.ltb_other_price"><![CDATA[Preis]]></item>
+		<item name="wcf.acp.option.ltb_other_price.description"><![CDATA[Geben Sie hier den aktuellen Preis an.]]></item>
+		<item name="wcf.acp.option.ltb_other_thread"><![CDATA[Thread-ID]]></item>
+		<item name="wcf.acp.option.ltb_other_thread.description"><![CDATA[Der Thread muss vorher angelegt werden. Geben Sie hier anschließend die Thread-ID an.]]></item>
+		<item name="wcf.acp.option.ltb_other_description"><![CDATA[Vorwort]]></item>
+		<item name="wcf.acp.option.ltb_other_story"><![CDATA[Inhaltsverzeichnis]]></item>
+	</category>
+	
+	<category name="wcf.dashboard">
+		<item name="wcf.dashboard.box.de.ltb-zone.wcf.ltbSidebar"><![CDATA[LTB-Anzeige]]></item>
+	</category>
+	
+	<category name="wcf.ltb">
+		<item name="wcf.ltb.button"><![CDATA[Aktuelles LTB]]></item>
+		<item name="wcf.ltb.button.other"><![CDATA[Aktuelle LTB-Nebenreihe]]></item>
+	</category>
 </language>
